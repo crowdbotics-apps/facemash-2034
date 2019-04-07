@@ -1,0 +1,3 @@
+rootProject.name = 'facemash_2034'
+
+include ':app'
